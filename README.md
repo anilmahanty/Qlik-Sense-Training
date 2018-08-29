@@ -9,3 +9,6 @@ This training course contains:-
         Multi node configuration and hetrogeneous data source connections
         Mastering Qlik Sense apps creation and the security implementation
         Construct master library, Master Calender, Extensions in Qlik Sense
+
+
+Contacts: mahanty.anil@gmail.com
