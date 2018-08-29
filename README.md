@@ -11,4 +11,4 @@ This training course contains:-
         Construct master library, Master Calender, Extensions in Qlik Sense
 
 
-Contacts: mahanty.anil@gmail.com
+Contact: mahanty.anil@gmail.com
